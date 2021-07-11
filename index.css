@@ -1,0 +1,46 @@
+#header
+{
+    align-items: center;
+    margin-top: 225px;
+   
+    
+}
+body
+{
+ font-family:"https://fonts.google.com/specimen/Open+Sans"; 
+ background-color: black;
+ position:fixed;
+ color:white;
+ margin: 0;
+ padding: 0;
+ width: 100%;
+ height: 100vh;
+ font-weight: 400;
+scroll-behavior: smooth;
+
+}
+body::before
+{
+    
+
+       content: "";
+            background:black url("new1.jpg")center center
+                no-repeat ;
+                
+            position:fixed;
+            opacity: 0.3;
+            top: 0px;
+            left: 0px;
+            right: 0px;
+            background-size:cover;
+            
+            height: 100vh;
+            z-index: -1;
+            
+            
+}
+.style
+{
+    font-family: "Dancing Script";
+    color: yellow;
+}

@@ -1,0 +1,30 @@
+body
+{
+    background-image: url("download.jpg");
+    background-size: cover;
+
+}
+.row
+{
+    color: white;
+    
+    
+
+}
+.card
+{
+    margin-left: 10px;
+    
+}
+.card-img-top
+{
+    width: 200px;
+    height: 400px;
+    
+}
+.container
+{
+    color: white;
+    margin-top: 10px;
+    margin-left: 50px;
+}
